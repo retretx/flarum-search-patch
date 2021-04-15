@@ -1,0 +1,11 @@
+{
+    "name": "rrmode/flarum-search-patch",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Nikita",
+            "email": "retretx@gmail.com"
+        }
+    ],
+    "require": {}
+}
